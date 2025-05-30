@@ -8,7 +8,7 @@ hide_table_of_contents: true
 High Quality Pen allows pen projects to render at a higher resolution rather than being stuck at 480x360 and disables some coordinate rounding in the editor.
 
 :::caution
-High quality pen can significantly reduce performance, especially when in fullscreen mode, as there are just so many more pixels that have to be drawn.
+High quality pen can significantly reduce performance, especially when in fullscreen mode, as there are just so many more pixels that have to be drawn, this may BREAK some projects like griff patch's 3d project!!
 
 Not all projects will look better with high quality pen enabled.
 :::
